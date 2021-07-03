@@ -1,0 +1,14 @@
+nav {
+  background-color: antiquewhite;
+  height: 40px;
+}
+nav > ul > li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 10px;
+  padding: 7px 5px;
+}
+.blogImg {
+  height: 70px !important;
+  width: 70px !important;
+}
